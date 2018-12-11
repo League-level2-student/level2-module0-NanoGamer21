@@ -6,7 +6,7 @@ public class _00_ArrayCheatSheet {
 	public static void main(String[] args) {
 		//1. make an array of 5 Strings
 		String[] fruit= new String[50];
-		int dum= 10;
+		int dum= 3;
 		//2. print the third element in the array
 		
 		//3. set the third element to a different value
